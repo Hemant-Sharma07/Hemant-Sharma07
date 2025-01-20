@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hemant-Sharma07
+- 👋 Hi, I’m Hemant Sharma
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently Pursuing MCA
 - 💞️ I’m Frontend Developer At AdOnEarth Communications
